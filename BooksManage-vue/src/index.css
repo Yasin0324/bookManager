@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* 防止滚动条出现时页面抖动 */
+body {
+  width: calc(100vw - 17px);
+}
